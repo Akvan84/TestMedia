@@ -1,0 +1,16 @@
+body {
+  background-color: lightskyblue;
+}
+
+.test {
+  width: 95%;
+  background-color: blueviolet;
+  margin: 10px auto;
+  padding: 30px;
+  border-radius: 20px;
+  color: white;
+  font-size: 18px;
+  text-align: justify;
+  box-shadow: 5px 5px 5px black;
+  transition: 300ms;
+}

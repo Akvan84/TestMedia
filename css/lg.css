@@ -1,0 +1,18 @@
+
+  body {
+    background-color: lightgreen;
+  }
+
+  .test {
+    width: 90%;
+    background-color: darkgreen;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    box-shadow: 5px 5px 5px black;
+    transition: 300ms;
+  }
+
